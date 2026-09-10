@@ -18,4 +18,4 @@ The book will be published as development progresses, with each section becoming
 
 ---
 
-© 2026 Homo Garagensis. All rights reserved.
+© 2026 Homo Garagensis. All rights reserved. - [Read more](https://github.com/homogaragensis/homogaragensis.github.io/blob/main/LICENSE)
