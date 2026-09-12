@@ -23,7 +23,7 @@ The simplicity of the game makes it the perfect subject for a tutorial-ish devlo
 
 The book will be published as development progresses, with each section becoming available as soon as it is complete.
 
-[Read it now](https://gal-line-book.github.io)
+[Read it now](https://homogaragensis.github.io/gal-line-book)
 
 ---
 
