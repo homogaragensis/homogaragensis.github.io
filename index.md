@@ -2,8 +2,6 @@
 layout: default
 ---
 
-# Homo Garagensis
-
 The *Homo Garagensis* specimen was first documented one rainy afternoon in a garage. It is, at its core, simply a human—one that has developed a remarkable natural adaptation to heavy machinery, strange gases, deafening sounds, and the inevitable chaos of the garage workshop.
 
 Often found hunched over a keyboard, surrounded by tools and improbable amounts of unidentified compounds, *Homo Garagensis* spends its days transforming questionable ideas into playable games.
